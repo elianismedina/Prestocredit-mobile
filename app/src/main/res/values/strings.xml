@@ -1,0 +1,15 @@
+<resources>
+    <!-- Strings pantalla incio -->
+    <string name="app_name">Presto-credit</string>
+    <string name="hi_elianis">Hi Elianis!</string>
+    <string name="phone">número de teléfono</string>
+    <string name="tyc">He leído y acepto los Términos y condiciones y la política de Privacidad</string>
+    <string name="btn_siguiente">Siguiente</string>
+
+    <!-- Strings pantalla registro -->
+    <string name="btn_cerrar">Botón cerrar</string>
+    <string name="send_code">El código ha sido enviado a 573126728516</string>
+    <string name="btn_registarse">Registrarse</string>
+    <string name="digito_código">Dígito código</string>
+
+</resources>
